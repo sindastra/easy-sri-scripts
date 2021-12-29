@@ -19,6 +19,10 @@ You can use sri256, sri384 and sri512 to generate SHA256, SHA384 and SHA512 resp
 
 Note that SHA384 fits perfectly into base64 and no padding is required.
 
+**Example:**
+
+    <script src="myfile.js" integrity="sha384-ZWGMTAHGDMJeeWcmuu0wupWx49u2K8TEf+MsgdLgAbBhold623Vhnz6AEd+3k4iY"></script>
+
 ### Installing
 
 Simply run
