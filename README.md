@@ -49,3 +49,22 @@ Make sure your web server, proxy, CDN, and so forth, do not "minify" or otherwis
 If you want to minify your files for performance, do so first, then generate the hash for the minified file.
 
 Subresource Integrity works with all major, up-to-date browsers (this does not include IE).
+
+### Who
+
+These scripts were brought to you by [Sindastra](https://sindastra.github.io/)
+
+[![GitHub followers](https://img.shields.io/github/followers/sindastra?style=social)](https://github.com/sindastra/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/sindastra?style=social)](https://twitter.com/sindastra)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/330409?domain=https%3A%2F%2Fchaos.social&style=social)](https://chaos.social/@sindastra)
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCM79aw2rkePB6D2bIfjhHtQ?style=social)](https://www.youtube.com/channel/UCM79aw2rkePB6D2bIfjhHtQ)
+
+Follow her on Twitter: [@sindastra](https://twitter.com/sindastra)
+
+[![GitHub Repo stars](https://img.shields.io/github/stars/sindastra/easy-sri-scripts?style=social)](https://github.com/sindastra/easy-sri-scripts)
+
+⬆️ Star this repo to not miss updates (button on top right)
+
+⬇️ Support the author, tip a coffee!
+
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W215OZB)
