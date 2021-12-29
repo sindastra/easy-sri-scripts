@@ -47,3 +47,5 @@ If even just a single bit of the file changes, it won't load (that's the point).
 Make sure your web server, proxy, CDN, and so forth, do not "minify" or otherwise tamper with your files.
 
 If you want to minify your files for performance, do so first, then generate the hash for the minified file.
+
+Subresource Integrity works with all major, up-to-date browsers (this does not include IE).
