@@ -65,7 +65,7 @@ Follow her on Twitter: [@sindastra](https://twitter.com/sindastra)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/sindastra/easy-sri-scripts?style=social)](https://github.com/sindastra/easy-sri-scripts)
 
-⬆️ Star this repo to not miss updates (button on top right)
+⬆️ Star this repo to not miss updates (button on top right of GitHub page)
 
 ⬇️ Support the author, tip a coffee!
 
