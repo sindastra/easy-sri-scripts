@@ -48,6 +48,8 @@ Make sure your web server, proxy, CDN, and so forth, do not "minify" or otherwis
 
 If you want to minify your files for performance, do so first, then generate the hash for the minified file.
 
+If you change both your resource (JS, CSS) and the hash in the HTML, but the old resource is cached in the browser, the site will break. To avoid this, add the version number, hash or some other unique string to the filename, so it will use the correct file. It's also possible to add a query string like `?ver=x.y.z` or similar; however, that's not recommended as resources with query strings might bypass the cache entirely (e.g. Cloudflare) and could be a performance penalty. Use filename strings instead.
+
 Subresource Integrity works with all major, up-to-date browsers (this does not include IE).
 
 ### Who
